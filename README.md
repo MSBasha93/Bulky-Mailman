@@ -30,7 +30,7 @@ Jane Smith,jane@example.com,TechWorld,Specialized in AI solutions.
 ```
 
 ## Usage Instructions
-1. Access the application via your web browser at [YourWebsite.com/email-sender](https://YourWebsite.com/email-sender).
+1. Access the application via your web browser at [mbasha93@github.com).
 2. Enter your GoDaddy email credentials securely.
 3. Set the email subject and body. Use placeholders `{name}`, `{company}`, `{info}` where necessary.
 4. Upload the recipients file (CSV/Excel).
@@ -52,12 +52,12 @@ Jane Smith,jane@example.com,TechWorld,Specialized in AI solutions.
 - No retry mechanism for failed emails.
 
 ## License
-This project is intended for private, internal use by authorized users of [Your Company/Website].
+This project is intended for private, internal use by authorized users of [www.aimicromind.com].
 Unauthorized distribution or commercialization is strictly prohibited.
 
 ## Authors
 - Developed and maintained by [mbasha93@github.com]
-- For customization requests, please contact [mbasha@aimicromind.com]
+- For customization requests, please contact [m.souliman.basha@gmail.com]
 
 ---
 
